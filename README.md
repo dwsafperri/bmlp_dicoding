@@ -208,18 +208,6 @@ Project ini bertujuan untuk:
 - Memberikan foundation untuk strategi pengurangan limbah makanan
 - Demonstrasi implementasi unsupervised dan supervised learning
 
-## 🏆 Kriteria Penilaian
-
-Project ini memenuhi kriteria submission Dicoding BMLP:
-
-- ✅ Dataset tanpa label (5000+ rows, 8 columns)
-- ✅ Mengandung data kategorikal dan numerikal
-- ✅ Implementasi clustering dengan evaluasi yang tepat
-- ✅ Implementasi klasifikasi dengan multiple algoritma
-- ✅ EDA yang komprehensif
-- ✅ Visualisasi yang informatif
-- ✅ Code documentation yang baik
-
 ## 👨‍💻 Author
 
 **Dewi Safira Permata Sari**  
